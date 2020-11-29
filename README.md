@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Open for work as a Data Analyst, SQL Developer or ReactJS Developer..
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
