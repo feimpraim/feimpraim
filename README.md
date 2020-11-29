@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://www.GhanaPalava.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.GhanaPalava.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/fredick-impraim-12488578/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/fredick-impraim-12488578/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fred%Impraim%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/itsfreddytho1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:fredickimpraim@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fredickimpraim@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
