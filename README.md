@@ -1,12 +1,12 @@
 
 <h2> Hey there! I'm Fred.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏿‍💻 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 💼 &nbsp; Open for work as a Data Analyst, SQL Developer or ReactJS Developer..
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
