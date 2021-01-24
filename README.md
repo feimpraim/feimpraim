@@ -6,6 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Open for work as a Data Analyst, SQL Developer or ReactJS Developer..
 - 🌱 &nbsp; Learning more about Cloud Architecture.
+- 👨🏿‍💻&nbsp; Currently in Betta
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
