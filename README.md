@@ -4,7 +4,7 @@
 <h3> 👨🏿‍💻 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Open for work as a Data Analyst, SQL Developer or ReactJS Developer..
+- 💼 &nbsp; Open for work as a Data Engineer, SQL Developer or ReactJS Developer..
 - 🌱 &nbsp; Learning more about Cloud Architecture.
 - 👨🏿‍💻&nbsp; Currently in Betta
 
